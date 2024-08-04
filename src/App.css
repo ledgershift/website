@@ -1,0 +1,10 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+main {
+  margin-top: 60px; /* Adjust to match header height */
+}
