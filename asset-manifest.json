@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/website/static/css/main.71c36b13.css",
-    "main.js": "/github.io/website/static/js/main.74e8f2fb.js",
-    "static/js/453.9edfd84c.chunk.js": "/github.io/website/static/js/453.9edfd84c.chunk.js",
-    "static/media/ethereum.png": "/github.io/website/static/media/ethereum.a85b6de0dc4a013ae2f8.png",
-    "static/media/solana.png": "/github.io/website/static/media/solana.88dd9cd2498aebe1ee8c.png",
-    "static/media/react.png": "/github.io/website/static/media/react.404167651b40e37feacf.png",
-    "static/media/java.png": "/github.io/website/static/media/java.6c1a3b5f7e2d535bff5b.png",
-    "static/media/hlf.png": "/github.io/website/static/media/hlf.9b488916628c29bf5293.png",
-    "static/media/javascript.webp": "/github.io/website/static/media/javascript.1053926cf2f54323bdc1.webp",
-    "static/media/rust.png": "/github.io/website/static/media/rust.3d281b659ce8495de1d3.png",
-    "static/media/solidity1.png": "/github.io/website/static/media/solidity1.9b91ae3f3b4019b1c1d3.png",
-    "static/media/btc.png": "/github.io/website/static/media/btc.f7d50142982510f3d756.png",
-    "static/media/golang.png": "/github.io/website/static/media/golang.6a3cd1884425f3b03c7d.png",
-    "index.html": "/github.io/website/index.html",
-    "main.71c36b13.css.map": "/github.io/website/static/css/main.71c36b13.css.map",
-    "main.74e8f2fb.js.map": "/github.io/website/static/js/main.74e8f2fb.js.map",
-    "453.9edfd84c.chunk.js.map": "/github.io/website/static/js/453.9edfd84c.chunk.js.map"
+    "main.css": "/github.io/react/static/css/main.71c36b13.css",
+    "main.js": "/github.io/react/static/js/main.85678408.js",
+    "static/js/453.9edfd84c.chunk.js": "/github.io/react/static/js/453.9edfd84c.chunk.js",
+    "static/media/ethereum.png": "/github.io/react/static/media/ethereum.a85b6de0dc4a013ae2f8.png",
+    "static/media/solana.png": "/github.io/react/static/media/solana.88dd9cd2498aebe1ee8c.png",
+    "static/media/react.png": "/github.io/react/static/media/react.404167651b40e37feacf.png",
+    "static/media/java.png": "/github.io/react/static/media/java.6c1a3b5f7e2d535bff5b.png",
+    "static/media/hlf.png": "/github.io/react/static/media/hlf.9b488916628c29bf5293.png",
+    "static/media/javascript.webp": "/github.io/react/static/media/javascript.1053926cf2f54323bdc1.webp",
+    "static/media/rust.png": "/github.io/react/static/media/rust.3d281b659ce8495de1d3.png",
+    "static/media/solidity1.png": "/github.io/react/static/media/solidity1.9b91ae3f3b4019b1c1d3.png",
+    "static/media/btc.png": "/github.io/react/static/media/btc.f7d50142982510f3d756.png",
+    "static/media/golang.png": "/github.io/react/static/media/golang.6a3cd1884425f3b03c7d.png",
+    "index.html": "/github.io/react/index.html",
+    "main.71c36b13.css.map": "/github.io/react/static/css/main.71c36b13.css.map",
+    "main.85678408.js.map": "/github.io/react/static/js/main.85678408.js.map",
+    "453.9edfd84c.chunk.js.map": "/github.io/react/static/js/453.9edfd84c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.71c36b13.css",
-    "static/js/main.74e8f2fb.js"
+    "static/js/main.85678408.js"
   ]
 }
