@@ -17,13 +17,13 @@ const Contact = () => {
 
         try {
             // Send POST request to Google Forms
-            const response = await fetch('https://docs.google.com/forms/d/e/1FAIpQLScp-ReDk6sREQVI6zVuhht0DB0BZ6vIQgbOxHzzoGiAQj0ydQ/formResponse', {
+            const response = await fetch('https://docs.google.com/forms/d/e/1FAIpQLScMWruUgXqDrlLEPp2hrOecBnHYUzhHbOwVQs6a2rAz5LtOBw/formResponse', {
                 method: 'POST',
                 body: formData,
                 mode: 'no-cors' // Required for Google Forms
             });
             console.log('Form submitted successfully');
-            alert('Form submitted successfully.');
+            // alert('Form submitted successfully.');
             e.target.reset();
         } catch (error) {
             console.error('Error submitting form:', error);
